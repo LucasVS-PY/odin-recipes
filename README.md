@@ -3,6 +3,6 @@ Skills applied:
     - Set up an HTML boilerplate
     - Add headers to a webpage
     - Add images and links
-    - Add ordered and unordered lists.
-    - Using the git add and git commit -m command to save changes to the local repository.
+    - Add ordered and unordered lists
+    - Use the git add and git commit -m command to save changes to the local repository.
     
