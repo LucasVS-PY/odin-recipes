@@ -1,4 +1,4 @@
-# First "The Odin Project" HTML project.
+# First "The Odin Project" HTML project
 Consists of making a recipe webpage.
 
 ## Skills applied:
